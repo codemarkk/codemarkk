@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=✨+Hi,+👋🏿+My+name+is+Marcos+Paulo+✨;But...+☝🏿;You+can+call+me+by+your+name+😏🤌🏿;...or+codemarkk.+That's+fine+🥲;I'm+25+years+old;and...+(the+best+part);⛱️I'm+from+Braziiiiiil🔥;Be+Welcome!+🤗+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codemarkk&bg_color=7B68EE00&color=6A5ACD&line=8B4513&point=775f5f&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codemarkk&bg_color=7B68EE00&color=6A5ACD&line=FF6347&point=FFC0CB&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codemarkk&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
