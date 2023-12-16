@@ -51,4 +51,4 @@ FF634755
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18d7d9&height=120&section=footer"/>
