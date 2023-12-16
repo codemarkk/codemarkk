@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=✨+Hi,+👋🏿+My+name+is+Marcos+Paulo+✨;But...+☝🏿;You+can+call+me+by+your+name+😏🤌🏿;...or+codemarkk.+That's+fine+🥲;I'm+25+years+old;and...+(the+best+part);⛱️I'm+from+Braziiiiiil🔥;Be+Welcome!+🤗+:%29)](https://git.io/typing-svg)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codemarkk&bg_color=7B68EE&color=350085&line=572828&point=775f5f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -35,3 +36,5 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
