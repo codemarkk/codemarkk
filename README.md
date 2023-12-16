@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 8B4513
+483D8B
 
 572828
+7B68EE
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=✨+Hi,+👋🏿+My+name+is+Marcos+Paulo+✨;But...+☝🏿;You+can+call+me+by+your+name+😏🤌🏿;...or+codemarkk.+That's+fine+🥲;I'm+25+years+old;and...+(the+best+part);⛱️I'm+from+Braziiiiiil🔥;Be+Welcome!+🤗+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codemarkk&bg_color=7B68EE&color=4B0082&line=8B4513&point=775f5f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codemarkk&bg_color=483D8B&color=4B0082&line=8B4513&point=775f5f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codemarkk&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
