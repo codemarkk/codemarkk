@@ -28,7 +28,7 @@ FF634755
 
 483D8B
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18d7d9&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=✨+Hi,+👋🏿+My+name+is+Marcos+Paulo+✨;But...+☝🏿;You+can+call+me+by+your+name+😏🤌🏿;...or+codemarkk.+That's+fine+🥲;I'm+25+years+old;and...+(the+best+part);⛱️I'm+from+Braziiiiiil🔥;Be+Welcome!+🤗)](https://git.io/typing-svg)
 
